@@ -21,7 +21,7 @@ input#open {
   height:300px;
   transform-style: preserve-3d;
   transform: perspective(2500px);
-  transition: 0.8s;
+  transition: 0.8s; 
 }
 
 .card-front {
